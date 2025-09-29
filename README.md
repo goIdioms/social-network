@@ -2,4 +2,4 @@
 ![Go Version](https://img.shields.io/badge/go-1.25.0-blue)
 ![Fiber Version](https://img.shields.io/badge/fiber-v2.52.9-brightgreen)
 ![License](https://img.shields.io/github/license/goIdioms/social-network)
-![Build Status](https://img.shields.io/github/actions/workflow/status/goIdioms/social-network/ci.yml?branch=main)
+![Build Status](https://img.shields.io/github/actions/workflow/status/goIdioms/social-network/deploy.yml?branch=main)

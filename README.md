@@ -1,2 +1,5 @@
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/goIdioms/social-network?utm_source=oss&utm_medium=github&utm_campaign=goIdioms%2Fsocial-network&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
-Social Nework
+![Go Version](https://img.shields.io/badge/go-1.25.0-blue)
+![Fiber Version](https://img.shields.io/badge/fiber-v2.52.9-brightgreen)
+![License](https://img.shields.io/github/license/goIdioms/social-network)
+![Build Status](https://img.shields.io/github/actions/workflow/status/goIdioms/social-network/deploy.yml?branch=main)
